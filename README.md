@@ -82,6 +82,10 @@ git clone https://github.com/GhostWriters/DockSTARTer "/home/${USER}/.docker"
 sudo bash /home/${USER}/.docker/main.sh -i
 sudo reboot
 ```
+OWN Repo
+git clone https://github.com/keerio/DockSTARTer "/home/${USER}/.docker"
+sudo bash /home/${USER}/.docker/main.sh -i
+sudo reboot
 
 </details>
 
